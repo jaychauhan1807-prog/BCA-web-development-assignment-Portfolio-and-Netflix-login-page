@@ -16,7 +16,7 @@ It includes:
 - A Personal Portfolio Website using HTML and CSS
 
 ## Files Included
-- netflix.html
+- index.html
 - netflix.css
 - portfolio.html
 - portfolio.css
