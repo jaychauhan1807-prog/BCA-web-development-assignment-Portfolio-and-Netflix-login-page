@@ -1,0 +1,45 @@
+body{
+  margin:0;
+  font-family:Arial;
+  text-align:center;
+}
+
+.hero{
+  background:#111;
+  color:white;
+  padding:60px 20px;
+}
+
+.hero button{
+  padding:10px 20px;
+  background:#e50914;
+  color:white;
+  border:none;
+}
+
+section{
+  padding:30px;
+}
+
+.services{
+  background:#f2f2f2;
+}
+
+.box{
+  background:white;
+  padding:15px;
+  margin:10px;
+  display:inline-block;
+  width:150px;
+}
+
+input, textarea{
+  width:80%;
+  padding:10px;
+}
+
+footer{
+  background:#222;
+  color:white;
+  padding:15px;
+}
